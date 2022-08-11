@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = "*"
+librosa = "*"
+noisereduce = "*"
+transformers = "*"
+torch = "*"
+cmudict = "*"
+s3fs = "*"
+audio-recorder-streamlit = "*"
+
+[dev-packages]
+ipython = "*"
+watchdog = "*"
+black = "*"
+
+[requires]
+python_version = "3.8"
