@@ -1,6 +1,6 @@
 # ML for phoneme recognition demo
 
-## Descriotion
+## Description
 
 This Streamlit application showcases a deep learning model for phoneme recognition. You can read the detailed article explaining the model.
 
